@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmad Suleiman</h1>
+
+<h1 align="center">Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> I'm Ahmad Suleiman</h1>
 <h3 align="center">Implementation and Integration Specialist</h3>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadkhaledcs" alt="ahmadkhaledcs" /></a> </p>-->
