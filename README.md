@@ -21,7 +21,7 @@
 
 - 📈 I’m an expert in **Integration and API's**
 
-- 🤝 I worked with major clients including **Central Bank of Saudi, Arab Bank, NBK and more**
+- 🤝 I worked with major clients including **Central Bank of Saudi, Arab Bank, National Bank of Kuwait, Saudi Electricity Company and more**
 
 - 📫 How to reach me **ahmadkhaled.cs@gmail.com**
 
