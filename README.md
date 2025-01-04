@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **ahmadkhaled.cs@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Iage4ApbXOOK23xDPL0tKNzTBrfAc8vx/view?usp=sharing](https://drive.google.com/file/d/1Iage4ApbXOOK23xDPL0tKNzTBrfAc8vx/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1Iage4ApbXOOK23xDPL0tKNzTBrfAc8vx/view?usp=sharing)
 
 
 ###
