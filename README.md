@@ -1,4 +1,32 @@
-<h2 align="left">Hi 👋 My name is Ahmad Suleiman</h2>
+<h1 align="center">Hi 👋, I'm Ahmad Suleiman</h1>
+<h3 align="center">Implementation and Integration Specialist</h3>
+
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadkhaledcs" alt="ahmadkhaledcs" /></a> </p>-->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ahmadsuleiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadsuleiman" height="30" width="40" /></a>
+<a href="https://fb.com/akmad.khaled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akmad.khaled" height="30" width="40" /></a>
+<a href="https://instagram.com/_ahmadkhaled__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ahmadkhaled__" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@ahmadkhaled_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ahmadkhaled_cs" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/10ahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="10ahmad01" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/10ahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="10ahmad01" height="30" width="40" /></a>
+</p>
+
+- 🧑‍💻 I’m currently working at [01Systems](https://www.01systems.com)
+
+- 🌱 I’m currently learning **Docker and cloud architecture**
+
+- 🤖 I Specialize in the field of **Digital Transformation**
+
+- 📈 I’m an expert in **Integration and API's**
+
+- 🤝 I worked with major clients including **Central Bank of Saudi, Arab Bank, NBK and more**
+
+- 📫 How to reach me **ahmadkhaled.cs@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Iage4ApbXOOK23xDPL0tKNzTBrfAc8vx/view?usp=sharing](https://drive.google.com/file/d/1Iage4ApbXOOK23xDPL0tKNzTBrfAc8vx/view?usp=sharing)
+
 
 ###
 
@@ -41,8 +69,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="30" alt="nuget logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
@@ -65,37 +91,20 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadkhaledCS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ahmadkhaledCS&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadkhaledCS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://s3.ezgif.com/tmp/ezgif-3-6ebee813db.gif"  />
+
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/_ahmadkhaled__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:ahmadkhaled.cs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmadsuleiman/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/akmad.khaled" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/ahmadkhaled_cs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
 
-###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ahmadkhaledCS/ahmadkhaledCS/output/snake.svg" alt="Snake animation" />
+
 
 ###
