@@ -86,6 +86,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4q2KTFwfgdsfd2mzAeLKuyuwWALpaoBjlA&s" height="30" alt="soapui logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="30" alt="swagger logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/elastic/005571" height="30" alt="elastic logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kibana/005571" height="30" alt="kibana logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlebigquery/4285F4" height="30" alt="bigquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 ###
